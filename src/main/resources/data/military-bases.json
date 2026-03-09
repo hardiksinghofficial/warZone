@@ -1,0 +1,22 @@
+[
+  {"name":"Ramstein Air Base","countryCode":"US","hostCountry":"DE","lat":49.4369,"lng":7.6003,"baseType":"AIR","personnel":9200,"isOverseas":true,"alliance":"NATO","description":"USAF headquarters in Europe"},
+  {"name":"Camp Humphreys","countryCode":"US","hostCountry":"KR","lat":36.9627,"lng":127.0312,"baseType":"ARMY","personnel":36000,"isOverseas":true,"alliance":"US Alliance","description":"Largest US overseas military base"},
+  {"name":"Naval Station Norfolk","countryCode":"US","hostCountry":"US","lat":36.946,"lng":-76.3032,"baseType":"NAVAL","personnel":80000,"isOverseas":false,"alliance":"NATO","description":"World largest naval station"},
+  {"name":"Diego Garcia","countryCode":"US","hostCountry":"GB","lat":-7.3195,"lng":72.4229,"baseType":"JOINT","personnel":4000,"isOverseas":true,"alliance":"US Alliance","description":"Strategic Indian Ocean base"},
+  {"name":"Kadena Air Base","countryCode":"US","hostCountry":"JP","lat":26.3516,"lng":127.7681,"baseType":"AIR","personnel":18000,"isOverseas":true,"alliance":"US Alliance","description":"USAF Pacific keystone base in Okinawa"},
+  {"name":"Incirlik Air Base","countryCode":"US","hostCountry":"TR","lat":37.0021,"lng":35.4259,"baseType":"AIR","personnel":5000,"isOverseas":true,"alliance":"NATO","description":"Strategic NATO base near Middle East"},
+  {"name":"Fort Liberty","countryCode":"US","hostCountry":"US","lat":35.1388,"lng":-79.003,"baseType":"ARMY","personnel":57000,"isOverseas":false,"alliance":"NATO","description":"Home of US Army Special Operations"},
+  {"name":"Al Udeid Air Base","countryCode":"US","hostCountry":"QA","lat":25.1174,"lng":51.315,"baseType":"AIR","personnel":11000,"isOverseas":true,"alliance":"US Alliance","description":"CENTCOM forward HQ"},
+  {"name":"Yokosuka Naval Base","countryCode":"US","hostCountry":"JP","lat":35.2833,"lng":139.6667,"baseType":"NAVAL","personnel":23000,"isOverseas":true,"alliance":"US Alliance","description":"US 7th Fleet HQ"},
+  {"name":"Thule Air Base","countryCode":"US","hostCountry":"DK","lat":76.5312,"lng":-68.7031,"baseType":"MISSILE_DEFENSE","personnel":600,"isOverseas":true,"alliance":"NATO","description":"Northernmost US base"},
+  {"name":"Pine Gap","countryCode":"US","hostCountry":"AU","lat":-23.799,"lng":133.737,"baseType":"INTELLIGENCE","personnel":800,"isOverseas":true,"alliance":"Five Eyes","description":"Joint satellite surveillance facility"},
+  {"name":"RAF Lakenheath","countryCode":"US","hostCountry":"GB","lat":52.4093,"lng":0.561,"baseType":"AIR","personnel":4500,"isOverseas":true,"alliance":"NATO","description":"USAF F-35 wing in England"},
+  {"name":"Kaliningrad Naval Base","countryCode":"RU","hostCountry":"RU","lat":54.7104,"lng":20.4522,"baseType":"NAVAL","personnel":25000,"isOverseas":false,"alliance":"CSTO","description":"Baltic Fleet HQ"},
+  {"name":"Tartus Naval Facility","countryCode":"RU","hostCountry":"SY","lat":34.884,"lng":35.8866,"baseType":"NAVAL","personnel":1700,"isOverseas":true,"alliance":"CSTO","description":"Russia Mediterranean naval base"},
+  {"name":"Hmeimim Air Base","countryCode":"RU","hostCountry":"SY","lat":35.4011,"lng":35.9487,"baseType":"AIR","personnel":4000,"isOverseas":true,"alliance":"CSTO","description":"Russian air operations in Syria"},
+  {"name":"Severomorsk Naval Base","countryCode":"RU","hostCountry":"RU","lat":69.0733,"lng":33.4194,"baseType":"NAVAL","personnel":30000,"isOverseas":false,"alliance":"CSTO","description":"Northern Fleet HQ - nuclear submarines"},
+  {"name":"Djibouti Support Base","countryCode":"CN","hostCountry":"DJ","lat":11.5469,"lng":43.1452,"baseType":"NAVAL","personnel":2000,"isOverseas":true,"alliance":"PLA","description":"China first overseas military base"},
+  {"name":"Yulin Naval Base","countryCode":"CN","hostCountry":"CN","lat":18.2267,"lng":109.555,"baseType":"NAVAL","personnel":12000,"isOverseas":false,"alliance":"PLA","description":"Underground submarine base Hainan"},
+  {"name":"Fiery Cross Reef","countryCode":"CN","hostCountry":"CN","lat":9.551,"lng":112.887,"baseType":"JOINT","personnel":400,"isOverseas":false,"alliance":"PLA","description":"Artificial island base South China Sea"},
+  {"name":"Guantanamo Bay","countryCode":"US","hostCountry":"CU","lat":19.9023,"lng":-75.0962,"baseType":"NAVAL","personnel":6000,"isOverseas":true,"alliance":"US","description":"US naval base in Cuba"}
+]
